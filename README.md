@@ -1,10 +1,10 @@
 # Body Parts Ebay
 
-## frontend (react)
+## Frontend (React)
 
-## backend (express)
+## Backend (Express)
 
-### dependencies
+### Dependencies
 
 - express
 - dotenv
@@ -12,8 +12,9 @@
 - express-session
 - bcrypt
 
-### server structure
+## Server Structure
 
+- DB
 - server/
   - index.js
   - controller folder/
@@ -22,7 +23,7 @@
   - middleware/
     - sessionCheck.js
 
-### endpoints
+## Endpoints
 
 **User/Auth**
 
