@@ -2,6 +2,32 @@
 
 ## Frontend (React)
 
+### dependanecies
+
+- axios
+- redux
+- react-redux
+- react-router-dom
+- http-proxy-middleware
+- redux-promise-middleware
+- node-sass
+
+### routes
+
+- login/register => '/' => AuthComponent.js
+- Store => '/bodyparts' => AvailbeBodyParts.js
+- Profile => '/profile' => Profile.js
+
+### file structure
+
+    - components
+        - AuthComponent
+        - AvailableParts
+        - Profile
+    - reducers
+        - store.js
+        - reduce.js
+
 ## Backend (Express)
 
 ### Dependencies
